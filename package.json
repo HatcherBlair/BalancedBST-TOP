@@ -1,0 +1,13 @@
+{
+  "name": "balancedbst-top",
+  "version": "1.0.0",
+  "description": "An implementation of a BST in JS with a Driver script to test functionality",
+  "main": "balancedBSTDriver.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node balancedBSTDriver.js"
+  },
+  "author": "Hatcher Blair",
+  "license": "ISC"
+}
